@@ -1,0 +1,46 @@
+/* GERAL*/
+* {
+    box-sizing: border-box;
+}
+
+
+body{
+    color:grey;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+
+form {
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+input[submit]{
+    text-decoration:none;
+    border:none;
+}
+
+.input-button{
+    background-color: #5d4477;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+p {
+    line-height: 0px;
+}
+
+.col-de-1 {
+    display: inline-block;
+    width: 49%;
+    text-align: right;
+}
+
+.col-de-2 {
+    display: inline-block;
+    width: 49%; 
+    text-align: left;
+}
